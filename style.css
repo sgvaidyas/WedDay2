@@ -1,0 +1,63 @@
+.header_style
+{
+    width: 100%;
+    height: 120px;
+    background-color:crimson;
+}
+.logo_style
+{
+    margin-left:10%;
+    margin-right:30%;
+    width:10%;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: blanchedalmond;
+    color: crimson;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+}
+.menu li
+{
+    width: 10%;
+    height: 40px;
+    background-color: bisque;
+    float: left;
+    list-style: none;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+
+/*   Content1 styling goes below   */
+#content1
+{
+    width: 100%;
+    height: 550px;
+    background-image: url('../images/bg1.jpg');
+    background-size: 100% 100%;
+    color: wheat;
+    text-align: center;
+}
+#welcomeheading
+{
+    padding-top: 240px;
+    font-size: 40px;
+    margin: 0;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+#welcomeheading h1 {
+    background-color: black;
+    width: 50%;
+    margin-left: 25%;
+}
+#content1 p{
+    font-size: 20px;
+}
+.mycolor
+{
+    color: yellow;
+}
